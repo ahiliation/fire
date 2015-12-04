@@ -1,5 +1,5 @@
 #! /bin/sh
-# beautiful firewall script 
+# firewall script 
 
 
 iptables -P INPUT DROP
